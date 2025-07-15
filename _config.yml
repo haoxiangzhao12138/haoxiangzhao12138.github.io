@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Xiangzhao Hao"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+description              : "🚀 Actively seeking PhD opportunities in Multimodal LLMs, Reinforcement Learning, and Multimodal Retrieval."
+repository               : "haoxiangzhao12138/haoxiangzhao12138.github.io"
+google_scholar_stats_use_cdn : False
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiangzhao Hao"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/photo.jpg"
   bio              : "Institute of Automation, Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=gkQoX7wAAAAJ"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : 
+  email            : "haoxiangzhao2023@ia.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/haoxiangzhao12138"
   google_plus      :
   keybase          :
   instagram        :
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  wechat           : "13520768177"
 
 
 # Reading Files
