@@ -44,6 +44,11 @@ I am actively seeking opportunities to pursue a Ph.D. If you find my background 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+# 💡 Patents
+- Zhu Kuan, Guo Haiyun, Hao Xiangzhao, Tang Ming, Wang Jinqiao. Multi-turn Image-Text Understanding and Localization Method and Device Based on Unified Multimodal and Multi-form Representations: CN202411282777.1 [P]. 2024-10-18
+- Zhu Kuan, Guo Haiyun, Hao Xiangzhao, Tang Ming, Wang Jinqiao. Image-Text Information Processing Method, Apparatus, Device, Storage Medium, and Program Product: CN202411297843.2 [P]. 2025-02-11.
+
+
 # 🎖 Honors and Awards
 - *2024.6* UCAS Outstanding Student and Excellent Student Leader
 - *2023.9* [Second Prize in the National Final of the Loongson Cup(National Student Computer System Capability Challenge)](https://www.nscscc.com/)
