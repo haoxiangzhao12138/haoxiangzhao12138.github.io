@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiangzhao Hao"
-description              : "🚀 Actively seeking PhD opportunities in Multimodal LLMs, Reinforcement Learning, and Multimodal Retrieval."
+description              : "Research on Multimodal LLMs, Multimodal Retrieval, Unified Understanding-Generation Models, and Visual Reasoning."
 repository               : "haoxiangzhao12138/haoxiangzhao12138.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiangzhao Hao"
   avatar           : "images/photo.jpg"
-  bio              : "Institute of Automation, Chinese Academy of Sciences"
+  bio              : "M.Eng. at the Institute of Automation, Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
